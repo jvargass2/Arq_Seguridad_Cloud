@@ -2,25 +2,5 @@
 ## Arquitectura propuesta 
 <img width="1026" height="1021" alt="image" src="https://github.com/user-attachments/assets/a07ffd3d-273c-4773-b819-7a814eaefcb4" />
 ## Organizacion Proyecto
-```text
-/data-plaftform tf
-|
-|-- /environments
-| |-- /dev
-| | |-- main.tf
-| | |-- terraform.tfvars
-| |  -- backend.tfvars
-| |-- /prd
-| | |-- main.tf
-| | |-- terraform.tfvars
-| |  -- backend.tfvars
-|
--- /modules
-    |-- /vpc
-    |-- /alb
-    |-- /ecs_service
-    |-- /rds
-    |-- /elasticache
-    |-- /WAF
-    |-- /Route53
-```
+<img width="685" height="414" alt="image" src="https://github.com/user-attachments/assets/ecc31eb3-67de-40b4-ad52-202567977c4b" />
+
